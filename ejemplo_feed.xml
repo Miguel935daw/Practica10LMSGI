@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="rss_parte1.xsd" version="2.0">
+    <channel>
+        <title>Me lo invento</title>
+        <link></link>
+        <category>Noticias</category>
+        <description>Sección de Noticias</description>
+        <item>
+            <title>Me lo invento</title>
+            <link></link>
+            <description>Perico</description>
+            <author>meloinvento@gmail.com</author>
+            <enclosure>https://youtu.be/jW3LHUoXW9c</enclosure>
+        </item>
+    </channel>
+</rss>
